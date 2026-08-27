@@ -223,5 +223,5 @@ The analysis can be extended by:
 
 **Name:** [Sharanya]
 **Course:** BCA
-**Internship:** [Internship Name]
+**Internship:** [logistic data analyst]
 **Task:** Week 3 – Advanced Data Analysis and Visualization in Logistics
